@@ -22,24 +22,6 @@
               <span class="menu-title">Home</span>
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('StrukturOrganisasi/index'); ?>">
-              <i class="menu-icon mdi mdi-group"></i>
-              <span class="menu-title">Struktur Organisasi</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('Profile/index'); ?>">
-              <i class="menu-icon mdi mdi-account"></i>
-              <span class="menu-title">Profile</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('Ebook/pegawai'); ?>">
-              <i class="menu-icon mdi mdi-book"></i>
-              <span class="menu-title">Ebook</span>
-            </a>
-          </li>
           <!--<li class="nav-item">
             <a class="nav-link" href="<?= base_url('dashboard'); ?>">
               <i class="menu-icon mdi mdi-television"></i>
@@ -47,9 +29,15 @@
             </a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('daftar_izin'); ?>">
-              <i class="menu-icon mdi mdi-pen"></i>
-              <span class="menu-title">Permohonan Ganti Profile</span>
+            <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
+              <i class="menu-icon mdi mdi-book"></i>
+              <span class="menu-title">Aspirasi</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
+              <i class="menu-icon mdi mdi-book"></i>
+              <span class="menu-title">About us </span>
             </a>
           </li>
         </ul>
