@@ -42,8 +42,5 @@ class Aspirasi extends CI_Controller
         $this->M_Aspirasi->eksekusi_edit();
     }
 }
-
-	
-
 /* End of file Dashboard.php */
 /* Location: ./application/controllers/Dashboard.php */

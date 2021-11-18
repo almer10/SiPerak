@@ -28,6 +28,12 @@
               <span class="menu-title">Dashboard</span>
             </a>
           </li> -->
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
+              <i class="menu-icon mdi mdi-book"></i>
+              <span class="menu-title">Aspirasi</span>
+            </a>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
               <i class="menu-icon mdi mdi-book"></i>
@@ -38,12 +44,6 @@
             <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
               <i class="menu-icon mdi mdi-book"></i>
               <span class="menu-title">About us </span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
-              <i class="menu-icon mdi mdi-account"></i>
-              <span class="menu-title">Aspirasi</span>
             </a>
           </li>
         </ul>
