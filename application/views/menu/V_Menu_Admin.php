@@ -2,6 +2,7 @@
         <ul class="nav">
           <li class="nav-item nav-profile">
             <div class="nav-link">
+              <br>
               <div class="user-wrapper" style="margin-bottom: 0px;">
                 <div class="profile-image">
                   <img src="<?= $user_avatar; ?>" alt="profile image">

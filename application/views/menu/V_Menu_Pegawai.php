@@ -52,6 +52,12 @@
               <span class="menu-title">Permohonan Ganti Profile</span>
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="<?= base_url('Aspirasi/index'); ?>">
+              <i class="menu-icon mdi mdi-account"></i>
+              <span class="menu-title">Aspirasi</span>
+            </a>
+          </li>
         </ul>
       </nav>
       <div class="main-panel">
