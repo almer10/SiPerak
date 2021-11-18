@@ -10,7 +10,7 @@
         </div> -->
       </div>
     </div>
-    <div id="demo" class="carousel slide" data-ride="carousel">
+    <!-- <div id="demo" class="carousel slide" data-ride="carousel">
 
 
       <ul class="carousel-indicators">
@@ -30,14 +30,32 @@
           <img src="assets/3.png" alt="New York" width="1235" height="200">
         </div>
       </div>
-
+      
       <a class="carousel-control-prev" href="#demo" data-slide="prev">
         <span class="carousel-control-prev-icon"></span>
       </a>
       <a class="carousel-control-next" href="#demo" data-slide="next">
         <span class="carousel-control-next-icon"></span>
       </a>
-    </div>
+    </div> -->
+
+    <div class="scene">
+  <div class="carousel">
+    <div class="carousel__cell">1</div>
+    <div class="carousel__cell">2</div>
+    <div class="carousel__cell">3</div>
+    <div class="carousel__cell">4</div>
+    <div class="carousel__cell">5</div>
+    <div class="carousel__cell">6</div>
+    <div class="carousel__cell">7</div>
+    <div class="carousel__cell">8</div>
+    <div class="carousel__cell">9</div>
+  </div>
+</div>
+<p style="text-align: center;">
+  <button class="previous-button">Previous</button>
+  <button class="next-button">Next</button>
+</p>
 
     <div class="row">
       <div class="col">
