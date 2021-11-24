@@ -1,4 +1,4 @@
-
+<!-- 
     <div class="content-wrapper">
       <div class="row">
         
@@ -12,7 +12,7 @@
                 <div class="float-right">
                   <p class="mb-0 text-right">Izin Cuti</p>
                   <div class="fluid-container">
-                    <h3 class="font-weight-medium text-right mb-0"><?=$pegawai_total_izincuti;?></h3>
+                    <h3 class="font-weight-medium text-right mb-0"><?= $pegawai_total_izincuti; ?></h3>
                   </div>
                 </div>
               </div>
@@ -33,7 +33,7 @@
                 <div class="float-right">
                   <p class="mb-0 text-right">Izin Sekolah</p>
                   <div class="fluid-container">
-                    <h3 class="font-weight-medium text-right mb-0"><?=$pegawai_total_izinsekolah;?></h3>
+                    <h3 class="font-weight-medium text-right mb-0"><?= $pegawai_total_izinsekolah; ?></h3>
                   </div>
                 </div>
               </div>
@@ -54,7 +54,7 @@
                 <div class="float-right">
                   <p class="mb-0 text-right">Izin Seminar</p>
                   <div class="fluid-container">
-                    <h3 class="font-weight-medium text-right mb-0"><?=$pegawai_total_izinseminar;?></h3>
+                    <h3 class="font-weight-medium text-right mb-0"><?= $pegawai_total_izinseminar; ?></h3>
                   </div>
                 </div>
               </div>
@@ -75,7 +75,7 @@
                 <div class="float-right">
                   <p class="mb-0 text-right">Izin Terkonfirmasi</p>
                   <div class="fluid-container">
-                    <h3 class="font-weight-medium text-right mb-0"><?=$pegawai_izin_terkonfirmasi;?></h3>
+                    <h3 class="font-weight-medium text-right mb-0"><?= $pegawai_izin_terkonfirmasi; ?></h3>
                   </div>
                 </div>
               </div>
@@ -87,4 +87,22 @@
         </div>
             
     </div>
+  </div> -->
+
+<div class="scene">
+  <div class="carousel">
+    <div class="carousel__cell">1</div>
+    <div class="carousel__cell">2</div>
+    <div class="carousel__cell">3</div>
+    <div class="carousel__cell">4</div>
+    <div class="carousel__cell">5</div>
+    <div class="carousel__cell">6</div>
+    <div class="carousel__cell">7</div>
+    <div class="carousel__cell">8</div>
+    <div class="carousel__cell">9</div>
   </div>
+</div>
+<p style="text-align: center;">
+  <button class="previous-button">Previous</button>
+  <button class="next-button">Next</button>
+</p>
