@@ -22,9 +22,9 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('inbox/index'); ?>">
+            <a class="nav-link" href="<?= base_url('dashboard'); ?>">
               <i class="menu-icon mdi mdi-television"></i>
-              <span class="menu-title">inbox</span>
+              <span class="menu-title">Aspirasi</span>
             </a>
           </li>
           <li class="nav-item">
