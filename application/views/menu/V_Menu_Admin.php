@@ -28,7 +28,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('dashboard'); ?>">
+            <a class="nav-link" href="<?= base_url('Berita/index'); ?>">
               <i class="menu-icon mdi mdi-television"></i>
               <span class="menu-title">Berita</span>
             </a>
