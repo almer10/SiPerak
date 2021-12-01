@@ -28,6 +28,12 @@
             </a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="<?= base_url('dashboard'); ?>">
+              <i class="menu-icon mdi mdi-television"></i>
+              <span class="menu-title">Berita</span>
+            </a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-dm" aria-expanded="false" aria-controls="ui-dm">
               <i class="menu-icon mdi mdi-treasure-chest"></i>
               <span class="menu-title">Manajemen Data Master</span>
