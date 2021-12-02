@@ -17,13 +17,13 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?= base_url('dashboard'); ?>">
-              <i class="menu-icon mdi mdi-television"></i>
+              <i class="menu-icon mdi mdi-home"></i>
               <span class="menu-title">Dashboard</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?= base_url('inbox/index'); ?>">
-              <i class="menu-icon mdi mdi-television"></i>
+              <i class="menu-icon mdi mdi-inbox"></i>
               <span class="menu-title">inbox</span>
             </a>
           </li>

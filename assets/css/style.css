@@ -16608,3 +16608,8 @@ body { font-family: sans-serif; }
 .carousel__cell:nth-child(7) { transform: rotateY(240deg) translateZ(288px); }
 .carousel__cell:nth-child(8) { transform: rotateY(280deg) translateZ(288px); }
 .carousel__cell:nth-child(9) { transform: rotateY(320deg) translateZ(288px); }
+
+.btn_wrapper{display:flex;justify-content:center;align-items:center;align-content:center;flex-wrap:wrap;width:150px;margin:0 auto;min-height:auto;}
+.btn_col{flex:1 1 auto;margin:5px;padding:10px;text-align:center;transition:0.5s;background-size:200% auto;color:#212121;text-shadow:0px 0px 10px rgba(0,0,0,0.2);box-shadow:0 0 20px #eee;border-radius:50px;}
+.btn_col:hover{background-position:right center;}
+.btn_color3{background-image:linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%);}

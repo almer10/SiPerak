@@ -89,7 +89,7 @@
     </div>
   </div> -->
 
-
+<br>
 <div class="scene">
   <div class="carousel">
     <div class="carousel__cell">1</div>
@@ -107,3 +107,11 @@
   <button class="previous-button">Previous</button>
   <button class="next-button">Next</button>
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
