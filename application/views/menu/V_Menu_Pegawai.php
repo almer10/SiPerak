@@ -30,12 +30,6 @@
               <span class="menu-title">Aspirasi</span>
             </a>
           </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('daftar_izin'); ?>">
-              <i class="menu-icon mdi mdi-treasure-chest"></i>
-              <span class="menu-title">Daftar Izin</span>
-            </a>
-          </li> -->
         </ul>
       </nav>
       <div class="main-panel">
