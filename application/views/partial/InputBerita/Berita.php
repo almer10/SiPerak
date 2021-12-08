@@ -28,7 +28,7 @@
         <div class="row">
             <div class="form-group">
                 <label for="id_transaksi" style="margin-left:15px;display:inline;">Deskripsi :</label>
-                <textarea type="text" placeholder="Deskripsi Berita" name="id_transaksi" style="margin-left:150px;width:180%;height:280%;display:inline;" class="form-control"></textarea>
+                <textarea type="text" placeholder="Deskripsi Berita" name="id_transaksi" style="margin-left:150px;width:50%;height:280%;display:inline;" class="form-control"></textarea>
             </div>
         </div>
     </div>

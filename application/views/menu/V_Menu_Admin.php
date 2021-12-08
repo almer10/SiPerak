@@ -17,22 +17,22 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?= base_url('dashboard'); ?>">
-              <i class="menu-icon mdi mdi-television"></i>
+              <i class="menu-icon mdi mdi-home"></i>
               <span class="menu-title">Dashboard</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?= base_url('inbox/index'); ?>">
-              <i class="menu-icon mdi mdi-television"></i>
+              <i class="menu-icon mdi mdi-inbox"></i>
               <span class="menu-title">inbox</span>
             </a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="<?= base_url('Berita/index'); ?>">
               <i class="menu-icon mdi mdi-television"></i>
               <span class="menu-title">Berita</span>
             </a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#ui-dm" aria-expanded="false" aria-controls="ui-dm">
               <i class="menu-icon mdi mdi-treasure-chest"></i>
@@ -42,9 +42,9 @@
             <div class="collapse" id="ui-dm">
               <ul class="nav flex-column sub-menu">
                 <?= generate_navlink($path_page, 'data_master/admin', 'Data Admin'); ?>
-                <?= generate_navlink($path_page, 'data_master/jabatan', 'Data Jabatan'); ?>
-                <?= generate_navlink($path_page, 'data_master/bidang', 'Data Bidang'); ?>
-                <?= generate_navlink($path_page, 'data_master/pegawai', 'Data Pegawai'); ?>
+                <!-- <?= generate_navlink($path_page, 'data_master/jabatan', 'Data Jabatan'); ?> -->
+                <!-- <?= generate_navlink($path_page, 'data_master/bidang', 'Data Bidang'); ?> -->
+                <!-- <?= generate_navlink($path_page, 'data_master/pegawai', 'Data Pegawai'); ?> -->
                 <!-- <?= generate_navlink($path_page, 'data_master/nama_izin', 'Data Nama Izin'); ?> -->
               </ul>
             </div>
